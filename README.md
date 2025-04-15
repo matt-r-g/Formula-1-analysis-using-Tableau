@@ -2,6 +2,12 @@
 
 Welcome to my Formula 1 Data Visualisations project! This repository contains various visualisations built using a **Formula 1 dataset** in **Tableau**. I have created a series of interactive dashboards and charts to explore the data and uncover insights related to the world of Formula 1 racing.
 
+To view this dashboard fully please visit my Tableau Public profile to read further:
+
+[[F1 Dashboard]](https://public.tableau.com/app/profile/matthew.green7049/viz/F1_17447180677880/ScrollDash)
+
+
+
 ## 📑 Overview
 
 This project showcases different types of data visualisations, including:
